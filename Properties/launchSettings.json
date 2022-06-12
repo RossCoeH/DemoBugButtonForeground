@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DemoBugButtonForeground (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DemoBugButtonForeground (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
